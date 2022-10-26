@@ -11,11 +11,14 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 ## Activity 6
 
 User Story 1.1: As a user, I want to see the courses that are like a course I am currently researching so that I can understand what courses are in the same area as the one I am currently reading about.
+
 ![image](https://user-images.githubusercontent.com/62577020/198127412-dba799d1-94a1-46c5-be31-11cfe668ef35.png)
 
 User Story 2.1: As a user, I want to be able to see program requirements, so that I can see what I need to get into and complete a program
+
 ![image](https://user-images.githubusercontent.com/62577020/198127434-f2e72961-2e30-44c7-ae92-5ccc38453af0.png)
 
 User Story 4.1: As a user, I want to have access to past syllabi, exams, and additional documentation pertaining to the course; so that I can find out the course content and breadth as well as the underlying difficulty.
+
 ![image](https://user-images.githubusercontent.com/62577020/198127465-eae0551b-263d-44ab-ac42-84b254d48fbf.png)
 
