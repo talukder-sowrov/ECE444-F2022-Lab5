@@ -19,7 +19,7 @@ Results Page – Form
 Results Page - Results Table
 ![image](https://user-images.githubusercontent.com/42917737/197942345-cbc3c61e-d621-4819-8c9d-56600a5a6ba1.png)
 
-## Activity 2-6
+## Activity 6
 
 User Story 1.1: As a user, I want to see the courses that are like a course I am currently researching so that I can understand what courses are in the same area as the one I am currently reading about.
 
