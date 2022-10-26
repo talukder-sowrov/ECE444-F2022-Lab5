@@ -1,37 +1,20 @@
-# CARTE Education Pathways
+# Lab 5
 
-## Description
-Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
+Sowrov Talukder, Fatima Siddiqui.
 
-Whatever year you are looking for, Education Pathways will also suggest courses in earlier years that will best help you to prepare. To get the most out of this, try searching for courses in a later year and see what is suggested for your current one.
+This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
-We are looking for feedback to improve Education Pathways and make it more useful for students. If you have ideas or suggestions, please email us!
+## Activity 1
 
-## Setup Instructions
+![image](https://user-images.githubusercontent.com/42917737/197939062-5570da79-8d33-4eef-a0fc-483b40c5de6f.png)
 
-### With Docker
+## Activity 2-5
 
+Home Page
+![image](https://user-images.githubusercontent.com/42917737/197942003-942920a3-6c6d-4831-bfd2-3d59f84a3fc6.png)
 
+Results Page – Form
+![image](https://user-images.githubusercontent.com/42917737/197942251-9f6229ac-40f3-4379-b20c-ea1b19567495.png)
 
-## Repository files:
-
-`./Procfile ./wsgi.py` *tells gunicorn how to run the program*
-
-`./environment.yml  ./requirements.txt` *specifies python requirements for anaconda and pip respectively*
-
-`./__init__.py` *main flask code*
-
-`./readme.md` *this file*
-
-`./resources:` *contains datasets used in the program*
-
-`course_vectorizer.pickle df_processed.pickle`
-
-`course_vectors.npz       graph.pickle`
-
-`./static:` *contains any static elements of the webpage, in this case just the CARTE logo*
-`CARTE_logo.jpg`
-
-`./templates:` *contains flask templates for rendering HTML*
-
-`_formhelpers.html course.html       index.html        results.html`
+Results Page - Results Table
+![image](https://user-images.githubusercontent.com/42917737/197942345-cbc3c61e-d621-4819-8c9d-56600a5a6ba1.png)
